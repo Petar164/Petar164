@@ -3,8 +3,6 @@ I’m a Software Development student at Curio (MBO Niveau 4) in Breda, focused o
 
 I primarily develop desktop applications designed to simplify everyday workflows, alongside business-oriented websites tailored to companies and individuals who need a strong and reliable online presence.
 
-I’m a Software Development student at Curio (MBO Niveau 4) in Breda, focused on building practical, real-world applications.
-
 I’m also the founder of FashionVoid, a registered Dutch business focused on archive fashion content and curated piece sales.<br>
 
 
